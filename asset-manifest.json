@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/rainzetroc/randomuser.git/static/js/main.b0b923b6.chunk.js",
-    "main.js.map": "/rainzetroc/randomuser.git/static/js/main.b0b923b6.chunk.js.map",
+    "main.js": "/rainzetroc/randomuser.git/static/js/main.13d61f9d.chunk.js",
+    "main.js.map": "/rainzetroc/randomuser.git/static/js/main.13d61f9d.chunk.js.map",
     "runtime-main.js": "/rainzetroc/randomuser.git/static/js/runtime-main.5c8e0537.js",
     "runtime-main.js.map": "/rainzetroc/randomuser.git/static/js/runtime-main.5c8e0537.js.map",
     "static/js/2.08a17641.chunk.js": "/rainzetroc/randomuser.git/static/js/2.08a17641.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.5c8e0537.js",
     "static/js/2.08a17641.chunk.js",
-    "static/js/main.b0b923b6.chunk.js"
+    "static/js/main.13d61f9d.chunk.js"
   ]
 }
